@@ -1,5 +1,8 @@
 # Azure API Management Private Endpoint Test & Troubleshooting Runbook
 
+<img width="732" height="406" alt="image" src="https://github.com/user-attachments/assets/b973b48c-37a7-425e-95e9-3a1a28c3a18b" />
+<img width="1170" height="927" alt="image" src="https://github.com/user-attachments/assets/cdac7df4-c53a-44a8-ba6d-742d31cf657f" />
+
 ## Purpose
 
 This runbook documents a complete, minimal Azure API Management test environment used to reproduce and troubleshoot private networking issues across:
